@@ -2,13 +2,13 @@
 
 File any bug reports, suggestions, or feedback!
 
-### Contributing
+## Contributing
 
 We're fresh out the gate, but many people have been wanting to chip in to help
 us make the VR Web a thing. We are just three people so we definitely need all
 the help we can get!
 
-#### Testing and Feedback
+### Testing and Feedback
 
 The greatest thing we appreciate and helps us out the most is just jumping into
 the headset, trying our projects out, and letting us know what you think. For
@@ -23,7 +23,7 @@ be bugs, suggestions, or input on the roadmap:
 
 Let us know if there is a communication channel that you prefer.
 
-#### Build with Supercraft
+### Build with Supercraft
 
 Try out [Supercraft](https://supermedium.com/supercraft/), build something, and
 publish it! This adds another site to the WebVR ecosystem, and we can feature
@@ -41,7 +41,7 @@ We're happy to answer any development-related questions.
 We prefer 6DoF-enabled content, see our frendly [development
 guidelines](http://supermedium.com/blog/webvr-guidelines).
 
-#### Direct Code Contributions
+### Direct Code Contributions
 
 Core projects such as [Supermedium](https://supermedium.com) and
 [Supercraft](https://supermedium.com/supercraft/) are primary closed-source,
@@ -61,7 +61,7 @@ definitely accepted for those. We come from open source and love it when we
 find stuff we can open up. If you particularly like any of those projects, feel
 free to jump in!
 
-#### Leaving a Review
+### Leaving a Review
 
 A review on [Steam](http://store.steampowered.com/app/803010/Supermedium/) or
 [Oculus](https://www.oculus.com/experiences/rift/1629560483789871/) would be
