@@ -31,7 +31,7 @@ it through our homepage, [Twitter](https://twitter.com/supermediumvr), or our
 [Instagram](http://instagram.com/supermediumvr). This also helps collect
 feedback!
 
-#### Suggest or Develop a WebVR Site
+### Suggest or Develop a WebVR Site
 
 The more great content we feature on Supermedium, the better! If you see a
 WebVR site (e.g., on the Web or Sketchfab) or have developed a WebVR site
